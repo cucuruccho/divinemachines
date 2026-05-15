@@ -26,7 +26,7 @@ $\color{#bdcd82}{\textsf{hello!  am matthew or gabriel... or even artemy! i am 1
 <details>
 <summary>$\color{#7baa79}{\textsf{Interests}}$</summary>
 
-$\color{#bdcd82}{\textsf{my interests are, and not limited to...}}$<br>$\color{#bdcd82}{\textsf{ULTRAKILL (Obviously.), DST, Guts and Blackpowder, Pathologic series, FAITH, and Madness Combat!}}$
+$\color{#bdcd82}{\textsf{my interests are, and not limited to...}}$<br>$\color{#bdcd82}{\textsf{ULTRAKILL (Obviously.), QSMP, Guts and Blackpowder, Pathologic series, FAITH, and BATIM!}}$
 
 
 </details>
@@ -41,7 +41,7 @@ $\color{#bdcd82}{\textsf{my interests are, and not limited to...}}$<br>$\color{#
 <details>
 <summary>$\color{#4c6e5a}{\textsf{Kins}}$</summary>
 
-$\color{#bdcd82}{\textsf{list of kins from highest to lowest}}$<br>$\color{#bdcd82}{\textsf{Gabriel (ULTRAKILL), Mirage (ULTRAKILL), Artemy Burakh (Pathologic 2), John Ward (FAITH), Wikilius (GnB)}}$
+$\color{#bdcd82}{\textsf{list of kins from highest to lowest}}$<br>$\color{#bdcd82}{\textsf{Gabriel (ULTRAKILL), Bendy (BATIM) Foolish (QSMP), Cucurucho (QSMP) Wikilius (GnB)}}$
 
 
 </details>
@@ -60,7 +60,7 @@ $\color{#bdcd82}{\textsf{list of kins from highest to lowest}}$<br>$\color{#bdcd
 <br>
 <br>
 
-<a href="https://7tries.straw.page/"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
+<a href="https://foolishg.straw.page"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
 <br>
 <br>
 <a href="https://haruuspex.atabook.org/"><img align="left" src="https://drive.google.com/uc?id=1wgLchvHm2lKBCEdP9ywcCY3LenDbLuaz" title="Atabook" width=150px/></a>
